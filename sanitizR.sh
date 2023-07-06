@@ -13,7 +13,7 @@ WHITE=$(tput setaf 7) # White
 
 # READ DIRECTORY TO CLEAN
 clear
-if [ $1 == "" ]; then # condition could also use [ -n $1 ] to check if the argument was passed
+if [ "$1" == "" ]; then 
     echo "${RED} ->> You forgot to enter the Directory to clean."
     printf "${RED} ->> ADD the PATH for the DIRECTORY TO CLEAN as a parameter.\n\n"
     #exit 1
