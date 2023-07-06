@@ -3,6 +3,8 @@ CLI bash shell script to sanitize a directory from unwanted objects by specifyin
 
 This shell script when run will sanitize a directory by recursively removing unwanted files. 
 
+
+INSTRUCTIONS
 To USE:
 1. Open your Terminal of Choice
 
