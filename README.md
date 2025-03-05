@@ -21,3 +21,5 @@ NOTE: If you do not provide the directory to clean you will get a prompt.
 4. Provide the file extension without the DOT: eg. jpg, txt, srt etc...
 
 -> Follow the Prompts. 
+
+[![Demo](anim.gif)](https://youtu.be/rQNvaKLaMdE)
