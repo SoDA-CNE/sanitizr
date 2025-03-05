@@ -22,4 +22,4 @@ NOTE: If you do not provide the directory to clean you will get a prompt.
 
 -> Follow the Prompts. 
 
-[![Demo](anim.gif)](https://youtu.be/rQNvaKLaMdE)
+[![Demo](anim2.gif)](https://youtu.be/rQNvaKLaMdE)
